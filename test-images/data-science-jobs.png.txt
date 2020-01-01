@@ -1,0 +1,60 @@
+250 Jobs)
+
+ >
+
+The More Popular Data Science Software (>:
+
+Python ~
+saL-
+
+Java-
+
+‘Amazon ML~
+RI
+
+CCH orca
+Hadoop-
+Tableau~
+Apache Spark~
+SAS
+
+Google ~
+Microsoft Azure -
+Apache Hive ~
+Scala~
+MATLAB~
+SPSS-
+Tensorflow-
+Splunk
+Apache Pig~
+Teradata~
+Stata-
+
+Cognos ~
+Scikit Leam~
+Pytorch ~
+Minitab ~
+Altery~
+Keras-
+
+MP
+
+Caffe~
+Spotfire-
+Apache Flink~
+Databricks ~
+SAP -
+
+‘Apache MXNet~
+Pentaho
+Theano-
+
+Mili ~
+
+H20-
+
+ 
+
+40000                    20000
+Number of Data Science Jobs on Indeed.com
+
