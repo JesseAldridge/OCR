@@ -1,0 +1,56 @@
+<meta charset="UTF-8">
+
+<style type="text/css">
+  * {
+    font-family: Helvetica;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  td {
+    border: 1px solid black;
+    vertical-align: top;
+    font-size: 12px;
+  }
+
+  td:first-child {
+    width: 70%;
+  }
+
+  td:second-child {
+    width: 30%;
+  }
+
+  img {
+    width:100%; height:auto;
+    border: solid 1px;
+  }
+
+  pre {
+    padding: 5px;
+    background: #eee;
+    border:solid 1px;
+  }
+
+</style>
+
+<html>
+  <table class='report'>
+    <tr>
+      <th>Image</th>
+      <th>Tesseract Results</th>
+    </tr>
+{{#results}}
+    <tr>
+      <td>
+        <img src='/{{{image_name}}}'>
+      </td>
+      <td>
+        <pre>{{{text}}}</pre>
+      </td>
+    </tr>
+{{/results}}
+  </table>
+</html>
